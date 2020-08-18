@@ -1,0 +1,11 @@
+Inicializando um Repositório num Diretório Existente: cd /c/WEB001_AF_REC
+
+Clonar um Repositório Existente: git clone https://github.com/ghmineiro33/WEB001_AF_REC
+
+Adicionando uma origin: git remote add origin git@github.com:ghmineiro33/WEB001_AF_REC.git  
+
+Enviando alterações para o Github: saber o que eu fiz de alterações: git status - Adicionar Arquivos: git add arquivo.arquivo
+
+Guardar o estado para permanente: git commit -m "Mensagem"
+
+enviar isso para o repositório remoto: git push -u origin master  
